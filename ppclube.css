@@ -1,0 +1,14 @@
+#container{
+
+}
+
+	#header{
+		display: block;
+		height: 100px;
+		background-color: gray;
+	}
+
+	#content{
+		height: 550px;
+		background-color: black;
+	}
