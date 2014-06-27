@@ -1,5 +1,5 @@
 #container{
-
+	
 }
 
 	#header{
@@ -7,6 +7,29 @@
 		width: 1265px;
 		background-color: gray;
 	}
+
+		#title-bar{
+			height: 75px;
+			width: 1265px;
+			background-color: white;
+		}
+
+		#title-bar h1{
+			font-family: "Apple Chancery";
+			font-size: 24pt;
+		}
+
+		#spacer{
+			height: 2px;
+			width: 1265px;
+			background-color: gray;
+		}
+
+		#nav{
+			height: 75px;
+			width: 1265px;
+			background-color: white;
+		}
 
 	#content{
 		height: 560px;
