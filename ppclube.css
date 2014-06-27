@@ -3,12 +3,59 @@
 }
 
 	#header{
-		display: block;
-		height: 100px;
+		height: 150px;
+		width: 985px;
 		background-color: gray;
 	}
 
 	#content{
 		height: 550px;
+		width: 985px;
 		background-color: black;
 	}
+
+		#top-image{
+			display: inline-block;
+			background-color: white;
+			margin: 10px;
+			height: 243px;
+			width: 350px;
+		}
+
+		#about{
+			display: inline-block;
+			vertical-align: top;
+			height: 100px;
+			width: 600px;
+		}
+
+		#about h1{
+			padding: 6px;
+		}
+
+		#about h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			#head-bar1{
+				background-color: yellow;
+			}
+
+			#about-text{
+				background-color: #686868;
+				color: white;
+				height: 200px;
+				width: 600px;
+			}
+
+p{
+	font-size: 10pt;
+	font-family: helvetica;
+}
+
+h1{
+	font-size: 12pt;
+	font-family: helvetica;
+}
