@@ -31,6 +31,14 @@
 			background-color: white;
 		}
 
+		#nav a{
+			border: double;
+		}
+
+			.button{
+				display: inline;
+			}
+
 	#content{
 		height: 560px;
 		width: 1265px;
@@ -188,6 +196,10 @@
 				height: 220px;
 				width: 300px;
 			}
+
+a{
+	font-family: helvetica;
+}
 
 p{
 	font-size: 10pt;
