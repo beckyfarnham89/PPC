@@ -19,6 +19,17 @@
 			font-size: 24pt;
 		}
 
+			#pho-num{
+				position: absolute;
+				top: 25px;
+				right: 40px;
+			}
+
+			#pho-num h3{
+				font-family: helvetica;
+				/*color: #EEFF00;*/
+			}
+
 		#spacer{
 			height: 2px;
 			width: 1265px;
@@ -33,11 +44,12 @@
 
 		#nav a{
 			margin-left: 20px;
-			border: double;
+			border: ridge;
 		}
 
 			.button{
 				display: inline;
+				margin: 10px;
 			}
 
 	#content{
