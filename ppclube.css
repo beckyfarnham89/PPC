@@ -4,13 +4,13 @@
 
 	#header{
 		height: 150px;
-		width: 985px;
+		width: 1265px;
 		background-color: gray;
 	}
 
 	#content{
-		height: 550px;
-		width: 985px;
+		height: 560px;
+		width: 1265px;
 		background-color: black;
 	}
 
@@ -26,7 +26,7 @@
 			display: inline-block;
 			vertical-align: top;
 			height: 100px;
-			width: 600px;
+			width: 880px;
 		}
 
 		#about h1{
@@ -47,7 +47,123 @@
 				background-color: #686868;
 				color: white;
 				height: 200px;
-				width: 600px;
+				width: 880px;
+			}
+
+		#automotive{
+			display: inline-block;
+			vertical-align: top;
+			margin-left: 10px;
+			height: 200px;
+			width: 300px;
+		}
+
+		#automotive h1{
+			padding: 6px;
+		}
+
+		#automotive h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			#head-bar2{
+				background-color: yellow;
+			}
+
+			#auto-text{
+				background-color: #686868;
+				color: white;
+				height: 220px;
+				width: 300px;
+			}
+
+		#commercial{
+			display: inline-block;
+			vertical-align: top;
+			margin-left: 10px;
+			height: 200px;
+			width: 300px;
+		}
+
+		#commercial h1{
+			padding: 6px;
+		}
+
+		#commercial h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			#head-bar3{
+				background-color: yellow;
+			}
+
+			#comm-text{
+				background-color: #686868;
+				color: white;
+				height: 220px;
+				width: 300px;
+			}
+
+		#industrial{
+			display: inline-block;
+			vertical-align: top;
+			margin-left: 10px;
+			height: 200px;
+			width: 300px;
+		}
+
+		#industrial h1{
+			padding: 6px;
+		}
+
+		#industrial h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			#head-bar4{
+				background-color: yellow;
+			}
+
+			#ind-text{
+				background-color: #686868;
+				color: white;
+				height: 220px;
+				width: 300px;
+			}
+
+		#diesel{
+			display: inline-block;
+			vertical-align: top;
+			margin-left: 10px;
+			height: 200px;
+			width: 300px;
+		}
+
+		#diesel h1{
+			padding: 6px;
+		}
+
+		#diesel h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			#head-bar5{
+				background-color: yellow;
+			}
+
+			#die-text{
+				background-color: #686868;
+				color: white;
+				height: 220px;
+				width: 300px;
 			}
 
 p{
