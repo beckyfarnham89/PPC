@@ -15,13 +15,14 @@
 		}
 
 		#title-bar h1{
+			margin-left: 20px;
 			font-family: "Apple Chancery";
 			font-size: 24pt;
 		}
 
 			#pho-num{
 				position: absolute;
-				top: 25px;
+				top: 20px;
 				right: 40px;
 			}
 
@@ -235,6 +236,8 @@
 			}
 
 a{
+	vertical-align: bottom;
+	padding: 5px;
 	font-family: helvetica;
 }
 
