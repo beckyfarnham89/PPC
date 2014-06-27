@@ -95,7 +95,7 @@
 				width: 880px;
 			}
 
-		#automotive{
+		.minibox{
 			display: inline-block;
 			vertical-align: top;
 			margin-left: 10px;
@@ -103,137 +103,33 @@
 			width: 300px;
 		}
 
-		#automotive h1{
+		.minbox h1{
 			padding: 6px;
 		}
 
-		#automotive h2{
+		.minibox h2{
 			color: white;
 			font-size: 12pt;
 			font-family: helvetica;
 		}
 
-			#head-bar2{
+			.head-bar2{
 				background-color: yellow;
 			}
 
-			#auto-img{
+			.img{
 				height: 110px;
 				width: 300px;
 				background-color: white;
 			}
 
-			#auto-text{
+			.text{
 				background-color: #686868;
 				color: white;
 				height: 110px;
 				width: 300px;
 			}
 
-		#commercial{
-			display: inline-block;
-			vertical-align: top;
-			margin-left: 10px;
-			height: 200px;
-			width: 300px;
-		}
-
-		#commercial h1{
-			padding: 6px;
-		}
-
-		#commercial h2{
-			color: white;
-			font-size: 12pt;
-			font-family: helvetica;
-		}
-
-			#head-bar3{
-				background-color: yellow;
-			}
-
-			#comm-img{
-				height: 110px;
-				width: 300px;
-				background-color: white;
-			}
-
-			#comm-text{
-				background-color: #686868;
-				color: white;
-				height: 110px;
-				width: 300px;
-			}
-
-		#industrial{
-			display: inline-block;
-			vertical-align: top;
-			margin-left: 10px;
-			height: 200px;
-			width: 300px;
-		}
-
-		#industrial h1{
-			padding: 6px;
-		}
-
-		#industrial h2{
-			color: white;
-			font-size: 12pt;
-			font-family: helvetica;
-		}
-
-			#head-bar4{
-				background-color: yellow;
-			}
-
-			#ind-img{
-				height: 110px;
-				width: 300px;
-				background-color: white;
-			}
-
-			#ind-text{
-				background-color: #686868;
-				color: white;
-				height: 110px;
-				width: 300px;
-			}
-
-		#diesel{
-			display: inline-block;
-			vertical-align: top;
-			margin-left: 10px;
-			height: 200px;
-			width: 300px;
-		}
-
-		#diesel h1{
-			padding: 6px;
-		}
-
-		#diesel h2{
-			color: white;
-			font-size: 12pt;
-			font-family: helvetica;
-		}
-
-			#head-bar5{
-				background-color: yellow;
-			}
-
-			#die-img{
-				height: 110px;
-				width: 300px;
-				background-color: white;
-			}
-
-			#die-text{
-				background-color: #686868;
-				color: white;
-				height: 110px;
-				width: 300px;
-			}
 
 a{
 	vertical-align: bottom;
