@@ -32,6 +32,7 @@
 		}
 
 		#nav a{
+			margin-left: 20px;
 			border: double;
 		}
 
@@ -103,10 +104,16 @@
 				background-color: yellow;
 			}
 
+			#auto-img{
+				height: 110px;
+				width: 300px;
+				background-color: white;
+			}
+
 			#auto-text{
 				background-color: #686868;
 				color: white;
-				height: 220px;
+				height: 110px;
 				width: 300px;
 			}
 
@@ -132,10 +139,16 @@
 				background-color: yellow;
 			}
 
+			#comm-img{
+				height: 110px;
+				width: 300px;
+				background-color: white;
+			}
+
 			#comm-text{
 				background-color: #686868;
 				color: white;
-				height: 220px;
+				height: 110px;
 				width: 300px;
 			}
 
@@ -161,10 +174,16 @@
 				background-color: yellow;
 			}
 
+			#ind-img{
+				height: 110px;
+				width: 300px;
+				background-color: white;
+			}
+
 			#ind-text{
 				background-color: #686868;
 				color: white;
-				height: 220px;
+				height: 110px;
 				width: 300px;
 			}
 
@@ -190,10 +209,16 @@
 				background-color: yellow;
 			}
 
+			#die-img{
+				height: 110px;
+				width: 300px;
+				background-color: white;
+			}
+
 			#die-text{
 				background-color: #686868;
 				color: white;
-				height: 220px;
+				height: 110px;
 				width: 300px;
 			}
 
