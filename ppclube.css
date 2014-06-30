@@ -1,14 +1,145 @@
 #container{
-
+	
 }
 
 	#header{
-		display: block;
 		height: 100px;
+		width: 1265px;
 		background-color: gray;
 	}
 
+		#title-bar{
+			height: 75px;
+			width: 1265px;
+			background-color: #E7E7E7;
+		}
+
+		#title-bar h1{
+			margin-left: 20px;
+			font-family: "Apple Chancery";
+			font-size: 24pt;
+		}
+
+			#pho-num{
+				position: absolute;
+				top: 25px;
+				right: 75px;
+			}
+
+			#pho-num h3{
+				font-family: helvetica;
+				/*color: #EEFF00;*/
+			}
+
+		#spacer{
+			height: 2px;
+			width: 1265px;
+			background-color: gray;
+		}
+
+		#nav{
+			height: 25px;
+			width: 1265px;
+			background-color: white;
+		}
+
+		#nav a{
+			margin-left: 30px;
+			/*border: ridge;*/
+		}
+
+			.button{
+				display: inline;
+				margin: 10px;
+			}
+
 	#content{
-		height: 550px;
+		height: 560px;
+		width: 1265px;
 		background-color: black;
 	}
+
+		#top-image{
+			display: inline-block;
+			background-color: white;
+			margin: 10px;
+			height: 243px;
+			width: 350px;
+		}
+
+		#about{
+			display: inline-block;
+			vertical-align: top;
+			height: 100px;
+			width: 878px;
+		}
+
+		#about h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			#head-bar1{
+				background-color: yellow;
+			}
+
+			#about-text{
+				background-color: #686868;
+				color: white;
+				height: 200px;
+				width: 878px;
+			}
+
+		.minibox{
+			display: inline-block;
+			vertical-align: top;
+			margin-left: 10px;
+			height: 200px;
+			width: 300px;
+		}
+
+		.minibox h1{
+			padding: 6px;
+		}
+
+		.minibox h2{
+			color: white;
+			font-size: 12pt;
+			font-family: helvetica;
+		}
+
+			.head-bar2{
+				background-color: yellow;
+			}
+
+			.img{
+				height: 110px;
+				width: 300px;
+				background-color: white;
+			}
+
+			.text{
+				background-color: white;
+				color: black;
+				height: 110px;
+				width: 300px;
+			}
+
+
+a{
+	vertical-align: bottom;
+	padding: 5px;
+	font-family: helvetica;
+}
+
+p{
+	font-size: 10pt;
+	font-family: helvetica;
+}
+
+h1{
+	padding: 6px;
+	font-size: 12pt;
+	font-family: helvetica;
+}
